@@ -1,0 +1,7 @@
+{
+    enrolledRepos: [
+        "dittobot"
+    ],
+    mergeStrategy: "squash",
+    requireCi: true
+}
