@@ -1,7 +1,7 @@
 {
-    enrolledRepos: [
+    "enrolledRepos": [
         "dittobot"
     ],
-    mergeStrategy: "squash",
-    requireCi: true
+    "mergeStrategy": "squash",
+    "requireCi": true
 }
