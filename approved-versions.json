@@ -2,7 +2,7 @@
     "metadata": {
         "description": "Approved dependency versions for Dependabot auto-merge",
         "schema_version": "1.0",
-        "last_updated": "2026-07-07T18:28:57.841Z"
+        "last_updated": "2026-07-07T23:15:06.939Z"
     },
     "approved": {
         "github_actions": {
@@ -12,6 +12,16 @@
                     "approvedBy": "alastairmarchant",
                     "sourceRepo": "alastairmarchant/dittobot",
                     "sourcePr": 13
+                }
+            }
+        },
+        "npm_and_yarn": {
+            "zod": {
+                "4.4.3": {
+                    "approvedAt": "2026-07-07T23:15:06.939Z",
+                    "approvedBy": "alastairmarchant",
+                    "sourceRepo": "alastairmarchant/dittobot",
+                    "sourcePr": 5
                 }
             }
         }
